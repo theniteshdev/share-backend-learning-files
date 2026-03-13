@@ -1,0 +1,13 @@
+{
+  "name": "play-with-npm-version",
+  "version": "1.0.0",
+  "description": "learn version changes and how",
+  "main": "index.js",
+  "scripts": {},
+  "author": "nitesh-kumar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "express": "~4.1.1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "echo hello ji",
+    "dev": "node --watch index.js"
+  }
+}
