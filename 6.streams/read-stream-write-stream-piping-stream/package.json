@@ -1,6 +1,7 @@
 {
   "name": "read-stream-write-stream-piping-stream",
   "main": "./dist/index.js",
+  "type": "module",
   "scripts": {
     "dev": "tsc \nnode ./dist/index.js \n",
     "start": "ts-node index.ts"
