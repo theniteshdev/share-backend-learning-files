@@ -1,0 +1,8 @@
+{
+  "main": "assignment.js",
+  "scripts": {
+    "dev": "node --watch assignment.js"
+  },
+ 
+  "type": "module"
+}
