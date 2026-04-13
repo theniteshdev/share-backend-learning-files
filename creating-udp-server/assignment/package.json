@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "send": "node client.js"
+  }
+}
