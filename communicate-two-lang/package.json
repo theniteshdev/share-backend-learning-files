@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "name": "communicate-two-lang",
+  "version": "1.0.0",
+  "main": "nodejs.js",
+  "scripts": {
+    "start": "node nodejs.js"
+  },
+  "author": "theniteshdev"
+}
